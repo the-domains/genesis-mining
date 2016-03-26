@@ -4,11 +4,18 @@
         <description><![CDATA[Genesis Mining]]></description>
         <link>https://thegrid.ai/genesis-mining/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 20:32:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 21:00:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/genesis-mining/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Genesis Hive - Smart Cryptocurrency Mining]]></title>
+            <description><![CDATA[<article><h1>Genesis Hive - Smart Cryptocurrency Mining</h1><p>Genesis Hive is a web interface that enables you to easily setup, watch, and manage your bitcoin or altcoin mining farm. Think of it as the ultimate control panel to manage your rigs. During our time building and maintaining bitcoin & altcoin mining farms we have had to cope with many factors that made running a Bitcoin mining farm a huge resource consuming situation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9878fed7f038a1d8c25a75724de786ec9e8b05c2.jpg"></article>]]></description>
+            <link>https://genesis-hive.com/</link>
+            <guid isPermaLink="false">fd5bcfbc-19bb-491d-8777-b8b3d8f7f5cf</guid>
+            <pubDate>Sat, 26 Mar 2016 21:00:21 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Genesis Mining Expands into Ethereum Mining with Year-Long Contracts]]></title>
-            <description><![CDATA[<article><h1>Genesis Mining Expands into Ethereum Mining with Year-Long Contracts</h1><p>Cloud mining provider, Genesis Mining, is expanding its mining operations with the launch of Ether Cloud Mining contracts. For the first time, customers of Genesis Mining will be able to mine for Ether, the fuel that powers the Ethereum network. "Our customers asked and we listened.</p><img src="https://assets.btcinc.io/img/articles/genesis-mining-expands-into-ethereum-mining-with-year-long-contracts.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Genesis Mining Expands into Ethereum Mining with Year-Long Contracts</h1><p>Cloud mining provider, Genesis Mining, is expanding its mining operations with the launch of Ether Cloud Mining contracts. For the first time, customers of Genesis Mining will be able to mine for Ether, the fuel that powers the Ethereum network. "Our customers asked and we listened.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/24cabfd65951b7334f0d6a590d628628fd4b275e.png"></article>]]></description>
             <link>https://bitcoinmagazine.com/articles/genesis-mining-expands-into-ethereum-mining-with-year-long-contracts-1450278438</link>
             <guid isPermaLink="false">285689a8-b33b-45cc-9b57-e0ebf1e0ad00</guid>
             <pubDate>Sat, 26 Mar 2016 20:32:35 GMT</pubDate>

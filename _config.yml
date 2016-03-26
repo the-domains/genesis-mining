@@ -1,0 +1,28 @@
+name: Genesis Mining
+favicon: null
+layout_spectrum: 0.3152312831953168
+typography_spectrum: 0.549838560866192
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6154780157376081
+  lightness: 0.9537963361945003
+  saturation: 0.8430501623079181
+  rhythmicContrast: 0.4195637989323586
+purpose: []

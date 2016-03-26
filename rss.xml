@@ -4,8 +4,15 @@
         <description><![CDATA[Genesis Mining]]></description>
         <link>https://thegrid.ai/genesis-mining/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 21:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2016 21:25:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/genesis-mining/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ethereum Project]]></title>
+            <description><![CDATA[<article><h1>Ethereum Project</h1><p>Learn Solidity, a new language for smart contracts: Create a tradeable digital token that can be used as a currency, a representation of an asset, a virtual share, a proof of membership or anything at all. These tokens use a standard coin API, so your contract will be automatically compatible with any wallet, other contract or exchange also using this standard.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f75fd45b79f1c53d189bdcd8c93a003927c5c827.jpg"></article>]]></description>
+            <link>https://www.ethereum.org/</link>
+            <guid isPermaLink="false">20bfa18a-2364-493a-b726-2862fdd34012</guid>
+            <pubDate>Sat, 26 Mar 2016 21:25:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Genesis Hive - Smart Cryptocurrency Mining]]></title>
             <description><![CDATA[<article><h1>Genesis Hive - Smart Cryptocurrency Mining</h1><p>Genesis Hive is a web interface that enables you to easily setup, watch, and manage your bitcoin or altcoin mining farm. Think of it as the ultimate control panel to manage your rigs. During our time building and maintaining bitcoin & altcoin mining farms we have had to cope with many factors that made running a Bitcoin mining farm a huge resource consuming situation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9878fed7f038a1d8c25a75724de786ec9e8b05c2.jpg"></article>]]></description>

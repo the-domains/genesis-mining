@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.ethereum.org/'
 title: Ethereum Project
-datePublished: '2016-03-26T21:08:08.451Z'
-dateModified: '2016-03-26T21:06:27.926Z'
+datePublished: '2016-03-26T21:25:15.556Z'
+dateModified: '2016-03-26T21:04:44.852Z'
 sourcePath: _posts/2016-03-26-ethereum-project.md
 published: true
 inFeed: true

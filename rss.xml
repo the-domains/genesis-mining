@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Genesis Mining]]></title>
         <description><![CDATA[Genesis Mining]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/genesis-mining/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Mar 2016 19:58:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 26 Mar 2016 20:32:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/genesis-mining/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Genesis Mining Expands into Ethereum Mining with Year-Long Contracts]]></title>
+            <description><![CDATA[<article><h1>Genesis Mining Expands into Ethereum Mining with Year-Long Contracts</h1><p>Cloud mining provider, Genesis Mining, is expanding its mining operations with the launch of Ether Cloud Mining contracts. For the first time, customers of Genesis Mining will be able to mine for Ether, the fuel that powers the Ethereum network. "Our customers asked and we listened.</p><img src="https://assets.btcinc.io/img/articles/genesis-mining-expands-into-ethereum-mining-with-year-long-contracts.png"></article>]]></description>
+            <link>https://bitcoinmagazine.com/articles/genesis-mining-expands-into-ethereum-mining-with-year-long-contracts-1450278438</link>
+            <guid isPermaLink="false">285689a8-b33b-45cc-9b57-e0ebf1e0ad00</guid>
+            <pubDate>Sat, 26 Mar 2016 20:32:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/976fa08a-58a1-4425-b289-7f2e4e550628.jpg" alt="" title="">]]></description>
-            <link>undefinedinside-a-mining-farm-in-iceland-with-freezing-temperature/index.html</link>
+            <link>https://thegrid.ai/genesis-mining/inside-a-mining-farm-in-iceland-with-freezing-temperature/index.html</link>
             <guid isPermaLink="false">57f2b157-7618-4359-be11-6be674a8e7e7</guid>
             <pubDate>Sat, 26 Mar 2016 19:58:24 GMT</pubDate>
         </item>

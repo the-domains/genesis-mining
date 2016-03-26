@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Inside a mining farm in Iceland with freezing temperature!'
-datePublished: '2016-03-26T21:13:40.932Z'
-dateModified: '2016-03-26T21:05:57.643Z'
+datePublished: '2016-03-26T21:23:15.955Z'
+dateModified: '2016-03-26T21:13:50.227Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-26-inside-a-mining-farm-in-iceland-with-freezing-temperature.md
